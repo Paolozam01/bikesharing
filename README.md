@@ -13,15 +13,17 @@ Error:
 
 These where the visualizations that I consider where the most intresing and usefull from all the ones that I created:
 
-August Peak Hours:
+### August Peak Hours:
 
-
+<img width="1512" alt="Screen Shot 2022-11-07 at 22 09 07" src="https://user-images.githubusercontent.com/108498940/200698306-c2ffa729-eb03-44e6-97b9-f5e9b6e49ced.png">
 
 This visualization shows the hours in which the most bikes are used. With this graph we can clearly see that the best time to make repairs and give maintanance to the bikes is between 2 a.m. and 4 a.m. We can also see that people normaly use the bikes the most around 6 and 7 p.m. This might be because of the weather. It would also be interesting to see how the weather affects how much the users rent the bikes. 
 
-Top Starting Locations:
+### Top Starting Locations:
 
 
+
+This visualizatio is very helpfull since it will help the investors have an idea of which locations are tipicaly the most populars to rent bikes. They could compare this results to Des Moines, Iowa in order to make important business decisions such as which areas should have more bikes. 
 
  Average Trip Duration:
  
