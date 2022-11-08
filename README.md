@@ -33,23 +33,33 @@ This graph shows the average trip duration by user birthdate. As we can see on t
  
 ### Bike utilization: 
 
+<img width="1512" alt="Screen Shot 2022-11-07 at 22 09 38" src="https://user-images.githubusercontent.com/108498940/200699396-449980ed-7e92-4308-acd1-25f18f7e87f3.png">
 
+ This visualizatio helps us identifiy which bikes have been used the most in order to give them maintanance after a determined number of hours of use. This will allow the company and investros give a better service to their clientes and lower the probabilities of a bike breaking or having problems. 
 
 ### Bike Repairs:
 
+<img width="1512" alt="Screen Shot 2022-11-07 at 22 09 46" src="https://user-images.githubusercontent.com/108498940/200699599-267e39b4-9cb7-4ee8-a896-7ba1a33f3e24.png">
 
+This visualitacio will help the company identify which bikes have had the least maintanance and need to be taken care of more urgently than others. This graph together together with the bike utilization graph are very important in order to give a satisfactory service to the clients and make sure every bike works just fine. 
 
 ### Checkout Times for Users:
  
- 
+ <img width="1512" alt="Screen Shot 2022-11-07 at 22 09 56" src="https://user-images.githubusercontent.com/108498940/200699806-53675e7a-f6b9-4d30-9b57-36cff91e0e9d.png">
+
+Unfortunatly I was not able to take a good screen shot of this visualization but the indofrmation that it displayed is very similar to the Checkout times by Gender. This information lets us know for how long the bikes are tipically used.
  
 ### Checkout Times by Gender:
  
- 
+ <img width="1512" alt="Screen Shot 2022-11-07 at 22 10 05" src="https://user-images.githubusercontent.com/108498940/200700165-54dbd03a-0e91-46a5-ae71-eba7eed6474b.png">
+
+This visualization shows us that it is mostly males that have the longest checkout times. This information is helpful since decisions can be made in order to attack and retain this target audience or make changes in order to make their expirience better. 
  
 ### Trips by Weekday per Hour:
  
- 
+ <img width="1512" alt="Screen Shot 2022-11-07 at 22 10 10" src="https://user-images.githubusercontent.com/108498940/200700382-191a789c-2f58-4b47-9763-c6f275be1f1e.png">
+
+
  
 ### Trips by Gender (Weekday per Hour):
 
