@@ -21,39 +21,41 @@ This visualization shows the hours in which the most bikes are used. With this g
 
 ### Top Starting Locations:
 
-
+<img width="1512" alt="Screen Shot 2022-11-07 at 22 09 17" src="https://user-images.githubusercontent.com/108498940/200698907-0168d39f-fffe-4cd8-b5fc-b40622fa3563.png">
 
 This visualizatio is very helpfull since it will help the investors have an idea of which locations are tipicaly the most populars to rent bikes. They could compare this results to Des Moines, Iowa in order to make important business decisions such as which areas should have more bikes. 
 
- Average Trip Duration:
+### Average Trip Duration:
  
+<img width="1512" alt="Screen Shot 2022-11-07 at 22 09 27" src="https://user-images.githubusercontent.com/108498940/200699312-9aba8744-9526-4bbf-b79f-ffed424ef93d.png">
+
+This graph shows the average trip duration by user birthdate. As we can see on the graph, the younger the user is the more consistent and long their rides are. This visualization will help us identify our market target and get to know our costumers more. This will allow the investros to have more efective marketing campaigns. 
  
- 
-Bike utilization: 
+### Bike utilization: 
 
 
 
-Bike Repairs:
+### Bike Repairs:
 
 
 
- Checkout Times for Users:
+### Checkout Times for Users:
  
  
  
- Checkout Times by Gender:
+### Checkout Times by Gender:
  
  
  
- Trips by Weekday per Hour:
+### Trips by Weekday per Hour:
  
  
  
-Trips by Gender (Weekday per Hour):
+### Trips by Gender (Weekday per Hour):
 
 
 
-User Trips by Gender by Weekday:
+### User Trips by Gender by Weekday:
 
 
 
