@@ -75,4 +75,4 @@ This heatmap helps us identify the hours our diferent costumers use the bikes. T
 
 ## Summary
 
-
+NYC Citibike is a ver successful project in metropolitan cities such as New York and it has the potential to have the same impact in other cities as well. As we where able to see in all the graphs and visualizations, we can infer how the same model would work on other cities. Most users are subsribed males which is very important to know in order to know how to start a marketing campaign in another citiy. This information and visualization gives the posible investors a head start to know how to start in case of bringin Citibike to another city. 
