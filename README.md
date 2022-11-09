@@ -59,15 +59,19 @@ This visualization shows us that it is mostly males that have the longest checko
  
  <img width="1512" alt="Screen Shot 2022-11-07 at 22 10 10" src="https://user-images.githubusercontent.com/108498940/200700382-191a789c-2f58-4b47-9763-c6f275be1f1e.png">
 
-
+This heatmap helps us identify which hours are the most busy of every weekday. As we can see and I mentioned earlier, the mos busy hours are tipically in the afternoon. We can also see that at 8 a.m. it is also a popular time to rent a bike between Monday and Friday. 
  
 ### Trips by Gender (Weekday per Hour):
 
+<img width="1512" alt="Screen Shot 2022-11-07 at 22 10 13" src="https://user-images.githubusercontent.com/108498940/200704684-4d2bbb6d-ea8d-4cd7-b9ad-0b34735d0a0b.png">
 
+In this heatmap we can see that same information as the past heatmap but divided in gender which is helpful to understand how each type of cosutmer uses the bike service. 
 
 ### User Trips by Gender by Weekday:
 
+<img width="1512" alt="Screen Shot 2022-11-07 at 22 10 18" src="https://user-images.githubusercontent.com/108498940/200705967-579bb5b3-b7db-4a98-8410-56cf058e952c.png">
 
+This heatmap helps us identify the hours our diferent costumers use the bikes. The people that most use the bikes are males that are subscribed to the bike service and this way we can understand better their schedules and preferences. Maybe something can be done to reach a greater number of costumers. 
 
 ## Summary
 
